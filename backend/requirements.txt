@@ -22,12 +22,12 @@ idna==3.11
 jmespath==1.0.1
 jsonpatch==1.33
 jsonpointer==3.0.0
-langchain==0.3.25
-langchain-aws==0.2.35
-langchain-community==0.3.0
-langchain-core==0.3.63
-langchain-text-splitters==0.3.8
+langchain==0.2.16
+langchain-community==0.2.15
+langchain-core==0.2.38
 langsmith==0.1.147
+langchain-aws==0.1.17
+langchain-text-splitters==0.3.8
 marshmallow==3.26.1
 multidict==6.7.0
 mypy_extensions==1.1.0
