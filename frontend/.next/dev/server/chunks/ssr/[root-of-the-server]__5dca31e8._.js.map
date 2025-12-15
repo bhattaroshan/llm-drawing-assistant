@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 17, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 21, "column": 0}, "map": {"version":3,"sources":["file:///Users/roshanbhatta/Documents/leapfrog/ai-coe/frontend/app/page.tsx"],"sourcesContent":["import { ChatInterface } from \"@/components/chat-interface\";\n\nexport default function Home() {\n  return <ChatInterface />;\n}\n"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBAAO,8OAAC,iJAAa;;;;;AACvB"}}]
+}

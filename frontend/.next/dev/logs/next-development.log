@@ -1,0 +1,149 @@
+[00:00:00.614] Server  LOG      ✓ Ready in 453ms
+[00:00:07.637] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:08.053] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:08.419] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:22.693] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:23.249] Server  LOG      ✓ Compiled in 13ms
+[00:08:25.289] Server  LOG      ✓ Compiled in 19ms
+[00:09:39.198] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:43.529] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:54.477] Server  LOG      ✓ Compiled in 16ms
+[00:19:03.603] Browser LOG     hello
+[00:20:07.460] Server  LOG      ✓ Compiled in 15ms
+[00:20:11.255] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:17.901] Server  LOG      ✓ Compiled in 9ms
+[00:20:22.301] Server  LOG      ✓ Compiled in 10ms
+[00:20:26.075] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:33.385] Server  LOG      ✓ Compiled in 9ms
+[00:22:10.349] Browser LOG     hello
+[00:22:45.985] Server  LOG      ✓ Compiled in 9ms
+[00:22:52.418] Server  LOG      ✓ Compiled in 9ms
+[00:24:00.799] Browser LOG     test
+[00:24:30.728] Browser LOG     hello
+[00:25:16.468] Browser LOG     hello
+[00:26:10.567] Browser LOG     hello
+[00:27:46.110] Browser LOG     test
+[00:29:42.812] Browser LOG     tet
+[00:30:55.962] Browser LOG     test
+[00:32:22.085] Browser LOG     test
+[00:41:02.359] Browser LOG     hello
+[00:41:12.994] Browser LOG     what is your name
+[00:42:22.684] Server  LOG      ✓ Compiled in 21ms
+[00:42:24.709] Server  LOG      ✓ Compiled in 8ms
+[00:43:00.122] Browser LOG     hello
+[00:43:07.819] Browser LOG     what is your name
+[00:43:13.637] Browser LOG     test is here
+[00:43:26.432] Browser LOG     can you talk to me about andromeda
+[00:43:51.264] Browser LOG     can you talk to me about andromeda not more than 100 words
+[00:47:30.866] Browser LOG     my name is roshan. okay tell me about earth
+[00:47:44.613] Browser LOG     what is my name
+[00:50:53.990] Server  LOG      ✓ Compiled in 9ms
+[00:50:55.225] Server  LOG      ✓ Compiled in 8ms
+[00:51:21.792] Browser LOG     hello
+[00:51:33.045] Browser LOG     my name is roshan what is yours
+[00:51:44.794] Browser LOG     do you remember my name?
+[00:52:21.634] Browser LOG     i want to buy a red color leather jacket for this winter and i dont want to waste more than 10000 rupees this time.
+[00:52:39.170] Browser LOG     do you recall my name?
+[00:52:57.183] Browser LOG     what do i want to buy this winter
+[00:53:19.361] Browser LOG     what is my total budget to buy leather jacket for this time.
+[00:53:49.672] Browser LOG     test
+[00:53:57.957] Browser LOG     test
+[00:54:07.600] Browser LOG     what do i want to buy this winter
+[00:54:30.555] Browser LOG     what is my total budget for buying jacket and what is my name
+[00:54:43.363] Browser LOG     my name is roshan
+[00:54:55.121] Browser LOG     what is my name
+[00:55:15.295] Browser LOG     my name is roshan
+[00:55:23.342] Browser LOG     what is my name
+[00:56:27.802] Browser LOG     my name is roshan
+[00:56:34.090] Browser LOG     what is my name
+[00:56:53.584] Browser LOG     my name is roshan
+[00:56:59.570] Browser LOG     what is my name
+[00:57:31.173] Browser LOG     my name is roshan
+[00:57:37.362] Browser LOG     what is my name
+[01:00:59.049] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:01:06.341] Browser LOG     do you know my name
+[01:05:08.394] Browser LOG     what is my name
+[01:05:13.080] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:05:17.905] Browser LOG     what is my name
+[01:44:17.607] Browser LOG     hello what is up with you?
+[01:45:14.898] Browser LOG     what is up
+[02:05:08.536] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:05:21.258] Browser LOG     draw sinwave and transpost it by 2,2
+[02:06:05.767] Browser LOG     draw sinwave and transpost it by 2,2
+[02:07:09.050] Browser LOG     draw sinwave and transpost it by 2,2
+[02:09:59.257] Browser LOG     generate sinwave of frequency 220hz
+[02:11:02.190] Browser LOG     generate sinwave of frequency 220hz
+[02:11:44.274] Browser LOG     generate sinwave of frequency 220hz
+[02:12:17.331] Browser LOG     generate sinwave of frequency 220hz
+[02:12:52.796] Browser LOG     generate sinwave of frequency 220hz
+[02:13:09.800] Browser LOG     generate sinwave of frequency 220hz
+[02:15:05.636] Browser LOG     generate sinwave of frequency 220hz
+[02:18:17.118] Browser LOG     generate sinwave of frequency 220hz
+[02:20:31.581] Browser LOG     generate sinwave of frequency 220hz
+[02:30:48.914] Server  LOG      ✓ Compiled in 15ms
+[02:30:50.072] Server  LOG      ✓ Compiled in 7ms
+[02:30:52.080] Server  LOG      ✓ Compiled in 17ms
+[02:31:48.182] Server  LOG      ✓ Compiled in 18ms
+[02:31:48.231] Server  LOG      ✓ Compiled in 44ms
+[02:31:48.239] Browser ERROR   ./app/page.tsx:1:1
+Export ChatInterface doesn't exist in target module
+> 1 | import { ChatInterface } from "@/components/chat-interface";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export default function Home() {
+  4 |   return <ChatInterface />;
+
+The export ChatInterface was not found in module [project]/components/chat-interface.tsx [app-rsc] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+[02:31:48.369] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:31:56.533] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:32:08.508] Browser LOG     draw sin wave 220hz
+[02:34:29.433] Browser LOG     draw sinwave 220hz
+[02:37:14.805] Browser LOG     draw sinwave 220hz amplitide 2
+[02:41:43.566] Browser LOG     draw circle with radius 50. and also draw another circle with radius 40 just above it
+[02:57:09.439] Browser LOG     draw circle of radius 50 in the center of canvas of red color then draw another circle of raidus 40 right above it so it touches the circle below it.
+[03:01:51.861] Browser LOG     draw circle of radius 50 in the center of canvas of red color then draw another circle of raidus 40 right above it so it touches the circle below it.
+[19:52:25.465] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[19:52:29.643] Browser LOG     draw rectangle
+[21:03:02.076] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[21:08:31.055] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[21:09:36.400] Browser LOG     hello
+[21:09:55.961] Browser LOG     draw sinwave with circle at the center with radius 50 and color red
+[21:11:07.795] Browser LOG     draw circle with radius 50 and draw another circle on top of it with radius 40. the bigger circle should be red in color and small circle should be blue in color
+[21:12:26.345] Browser LOG     draw a circle that should be 400 in raidus with green color. another circle with radius 100 should be right above the bigger circle. small circle's base should only touch the bigger circles top. smaller circle should be red in color.
+[21:12:46.947] Browser LOG     draw a circle that should be 400 in raidus with green color. another circle with radius 100 should be right above the bigger circle. small circle's base should only touch the bigger circles top. smaller circle should be red in color.
+[21:14:46.080] Browser LOG     draw rectangle and add circle inside of the rectangle
+[21:15:10.951] Browser LOG     draw rectangle and add circle inside of the rectangle
+[21:16:20.582] Browser LOG     draw rectangle with green color and add circle it has to be completely inside rectangle and circle should be of radius 400. circle has to be at the center of the rectangle.
+[21:17:14.566] Browser LOG     in the rectangle and circle above just make the circle at the center of that rectangle. circle shouldn't come out of the rectangle.
+[21:18:06.046] Browser LOG     draw a rectangle of length 200 and width 100 and rotate it 45 degree clockwise
+[21:18:45.889] Browser LOG     draw a rectangle of length 200 and width 100 and rotate it 45 degree clockwise
+[21:38:41.074] Browser LOG     hello
+[21:43:47.255] Browser LOG     hello
+[21:43:53.915] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[21:43:57.080] Browser LOG     hello
+[21:44:42.815] Browser LOG     hello
+[21:45:55.627] Browser LOG     hello
+[21:46:17.510] Browser LOG     hello
+[21:51:20.079] Browser LOG     draw rectangle of size 100x100
+[21:54:06.643] Browser LOG     draw rectangle of size 100x200
+[21:57:54.060] Browser LOG     draw rectangle of size 100x200
+[22:00:22.821] Server  LOG      ✓ Compiled in 23ms
+[22:00:29.115] Browser LOG     draw rectangle of size 100x200
+[22:00:56.534] Browser LOG     draw rectangle of size 100x200 at the center of canvas 800 800
+[22:03:05.266] Browser LOG     draw rectangle of size 100x200 at the center of canvas 800 800
+[22:04:52.776] Browser LOG     draw rectangle of size 100x200 at the center of canvas 800 800
+[22:07:49.596] Browser LOG     draw rectangle of size 100x200 at the center of canvas 800 800
+[22:10:35.912] Server  LOG      ✓ Compiled in 16ms
+[22:10:41.272] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[22:50:31.497] Server  LOG      ✓ Compiled in 27ms
+[22:50:50.420] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[22:51:28.490] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[22:53:52.028] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[23:00:00.229] Server  LOG      ✓ Compiled in 29ms
+[23:05:03.182] Server  LOG      ✓ Compiled in 34ms
+[24:56:15.764] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[24:56:21.568] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[26:07:01.653] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[32:47:40.695] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
