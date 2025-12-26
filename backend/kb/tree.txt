@@ -1,0 +1,36 @@
+A tree consists of these steps to draw:
+
+1. Draw the trunk as a rectangle:
+   - Position: x=300, y=400
+   - Size: width=40, height=100
+   - Fill color: brown shades like "#8B4513" (saddle brown) or "#A0522D" (sienna)
+   - Outline: black or dark brown
+
+2. Draw the main foliage as an ellipse (oval):
+   - Center position: x=320, y=350
+   - Horizontal radius (rx): 60
+   - Vertical radius (ry): 70
+   - Fill color: green shades like "#228B22" (forest green), "#32CD32" (lime green), or "#006400" (dark green)
+   - Outline: transparent or dark green
+   - Outline width: 0 or 1
+
+3. Draw smaller foliage clusters as circles:
+   - Positions (approximate, can vary slightly): 
+     - Left cluster: x=280, y=340
+     - Right cluster: x=360, y=340
+     - Top highlight cluster: x=320, y=310
+   - Radius: 30 to 35
+   - Fill colors: use different green shades from the main foliage but slightly lighter or darker
+   - Outline: transparent or dark green
+   - Outline width: 0 or 1
+
+4. Layer the smaller foliage clusters on top of the main ellipse to create depth.
+
+5. Optional features:
+   - Add a small patch of grass at the base using small green ellipses or lines near trunk base.
+   - Add fruits or flowers as small circles of red, yellow, or orange scattered on foliage (optional).
+
+Use layering: draw trunk first, then main foliage, then smaller clusters, and finally optional details.
+
+Use slight variation in position and size of foliage clusters for natural appearance.
+When drawing this object side by side with itself or something else make sure to add some distance.

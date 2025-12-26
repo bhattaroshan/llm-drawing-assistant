@@ -20,7 +20,8 @@ interface AWSCredentials {
   AWS_REGION: string
 }
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://draw-backend.roshanbhatta.com.np"
+// const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://draw-backend.roshanbhatta.com.np"
+const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000"
 
 export function ChatInterface() {
   const [messages, setMessages] = useState<Message[]>([])

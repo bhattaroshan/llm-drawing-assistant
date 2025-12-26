@@ -1,0 +1,25 @@
+A house consists of these steps to draw:
+
+1. Draw sky background with add_gradient("#87CEEB", "#E0F6FF", "vertical")
+2. Draw main rectangular body:
+   - Position: x=200, y=350
+   - Size: width=200, height=150
+   - Fill color: something of light color for example: "#D2691E" (brown)
+   - Outline: black
+3. Draw triangular roof as polygon:
+   - Points: [(180,350), (300,250), (420,350)]
+   - Fill color: color that is darker than the main rectangular body for example: "#8B0000" (dark red)
+   - Outline: black
+4. Draw door as rectangle:
+   - Position: x=250, y=440 (base aligned with house base at y=500)
+   - Size: width=40, height=60
+   - Fill color: "#8B4513" (wood brown) or something darker than main rectangular body color
+   - Outline: black
+5. Draw windows as rectangles:
+   - Position: x=320, y=380 the x and y position can change by a few points
+   - Size: width=35, height=35 width and height can vary by a few points
+   - Fill color: "#87CEEB" (sky blue)
+   - Outline: black
+6. Add window cross lines using add_line:
+   - Vertical line from (337, 380) to (337, 415)
+   - Horizontal line from (320, 397) to (355, 397)
